@@ -93,7 +93,7 @@ body {
 .user-activity > header {
     border-bottom: solid 1px #aaa;
     padding: 8px;
-
+}
 .news-feed {
     display: flex;
     flex-direction: column;
